@@ -36,9 +36,9 @@ function leastCommonMultiple (a, b) {
 
 ## Academic Projects
 
-* https://viktoria-orl.github.io/burgers/
+* [https://viktoria-orl.github.io/burgers/]
 
-* https://viktoria-orl.github.io/balloons/
+* [https://viktoria-orl.github.io/balloons/]
 
 ## Education
 
